@@ -1,5 +1,6 @@
 body
 {
+    background: #1e1f24;
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -10,12 +11,18 @@ body
 
 #cabecera
 {
-    background: #33A;
+    background: #37488b;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
@@ -37,48 +44,9 @@ body
 #container h1
 {
     font-size: 20px;
-<<<<<<< HEAD
-}
-=======
 }
 #post
 {
+    background: white;
     padding: 1em;
 }
-
-Tu avatar
-Escribe tu aporte o pregunta
-APORTES 1021
-
-PREGUNTAS 165
-
-Ordenar por:
-Más Votados
-Nuevos
-Sin Responder
-julian-camilo-vargas
-julian-camilo-vargas
-
-Hace 2 años
-
-1.1K
-es absurdo lo buen profesor que es freddyyyy que haga mas cursoooos
-
-Responder
-Sebastian Veliz Ysla
-Sebastian Veliz Ysla
-
-Hace 2 años
-
-62
-Dios te oiga :,v
-
-Mario Alejandro Crespo Reyes
-Mario Alejandro Crespo Reyes
-
-Hace 2 años
-
-29
-Porfavor fredy !
-
->>>>>>> cabecera
